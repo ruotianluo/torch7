@@ -12,8 +12,6 @@ typedef struct THTensor
     long *stride;
     int nDimension;
 
-    // Note: storage->size may be greater than the recorded size
-    // of a tensor
     THStorage *storage;
     ptrdiff_t storageOffset;
     int refcount;
