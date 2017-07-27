@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/torch/torch7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/torch/torch7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/torch/torch7.svg)](https://travis-ci.org/torch/torch7)
-
+ 
 ## Need help? ##
 
 * Questions, Support, Install issues: [Google groups](https://groups.google.com/forum/#!forum/torch7)
